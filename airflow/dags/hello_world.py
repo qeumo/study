@@ -1,0 +1,1 @@
+print("hello world from script executed with bash")
